@@ -1,0 +1,14 @@
+[
+    {
+        "symbol": "STEEM/USDT",
+        "buy_score": 2,
+        "sell_score": 2,
+        "signal": "HOLD"
+    },
+    {
+        "symbol": "AERGO/USDT",
+        "buy_score": 2,
+        "sell_score": 2,
+        "signal": "HOLD"
+    }
+]
